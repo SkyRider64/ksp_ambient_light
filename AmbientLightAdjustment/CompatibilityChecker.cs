@@ -51,8 +51,8 @@ namespace AmbientLightAdjustment {
 			\*-----------------------------------------------*/
 
 			const int major = 0;
-			const int minor = 24;
-			const int revision = 2;
+			const int minor = 25;
+			const int revision = 0;
 
 			bool hardcodedOk = (Versioning.version_major == major) && (Versioning.version_minor == minor) && (Versioning.Revision == revision);
 			bool kspVersionOk = false;
